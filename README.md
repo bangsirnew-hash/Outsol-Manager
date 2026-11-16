@@ -1,0 +1,1 @@
+# Outsol-Manager
